@@ -10,7 +10,7 @@ Solving problems and building logic, one commit at a time. Currently exploring t
 ---
 
 ## 🚀 My Coding Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rishu1790?theme=dark&font=Recursive)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VBG5YEb6AX?theme=dark&font=Recursive)
 
 ## 🛠️ Tech Stack & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
