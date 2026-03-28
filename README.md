@@ -1,13 +1,21 @@
 # 🚀 My LeetCode DSA Journey (Java)
 
-Welcome to my repository! Yahan main apni daily DSA practice aur problem-solving progress ko document karta hoon. 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rishu1790?theme=dark&font=Recursive)
 
+Welcome to my repository! Yahan main apni daily DSA practice aur progress ko document karta hoon.
+
+## 🛠️ My Tech Stack
 - **Language:** Java ☕
-- **OS:** Windows / Pop!_OS 🐧
-- **Current Progress:** 30+ Problems Solved 🎯
-- - **OS:** Exploring Development on **Pop!_OS** 🐧
+- **Environment:** Windows / **Pop!_OS** 🐧 (Exploring Linux)
+- **Tools:** Lightweight VS Code & LeetHub v2
+
+## 🎯 Progress Tracking
+- [x] **Milestone 1:** 30+ Problems Solved 🎯
+- [ ] **Milestone 2:** 100+ Problems Solved 🚀
 
 ---
+
+## 📂 My Solutions Table
 
 
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
