@@ -1,19 +1,24 @@
-# 🚀 My LeetCode DSA Journey (Java)
+# Hi, I'm Rishu! 👋
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/VBG5YEb6AX?theme=dark&font=Recursive)
-
-Welcome to my repository! Yahan main apni daily DSA practice aur progress ko document karta hoon.
-
-## 🛠️ My Tech Stack
-- **Language:** Java ☕
-- **Environment:** Windows / **Pop!_OS** 🐧 (Exploring Linux)
-- **Tools:** Lightweight VS Code & LeetHub v2
-
-## 🎯 Progress Tracking
-- [x] **Milestone 1:** 30+ Problems Solved 🎯
-- [ ] **Milestone 2:** 100+ Problems Solved 🚀
+### 👨‍💻 Java Developer & DSA Enthusiast
+Solving problems and building logic, one commit at a time. Currently exploring the world of Linux with **Pop!_OS** 🐧.
 
 ---
+
+## 🚀 My Coding Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/VBG5YEb6AX?theme=dark&font=Recursive)
+
+## 🛠️ Tech Stack & Tools
+- **Language:** Java (OOPs, Collections, DSA) ☕
+- **Environment:** Windows / Pop!_OS 🐧
+- **Editor:** VS Code (Lightweight Setup) ⚡
+- **Version Control:** Git & GitHub Desktop
+
+## 📂 Featured Project
+- [LeetCode-Solutions](./LeetCode-Solutions) - Check out my 34+ solved problems!
+
+---
+*“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 ## 📂 My Solutions Table
 
