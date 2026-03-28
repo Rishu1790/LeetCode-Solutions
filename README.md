@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Math
