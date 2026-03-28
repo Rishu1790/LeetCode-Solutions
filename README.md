@@ -1,33 +1,40 @@
-# Hi, I'm Rishu! 👋
+# 🏆 LeetCode DSA Journey (Java)
 
-### 👨‍💻 Java Developer & DSA Enthusiast
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishu1790&label=Repo%20Views&color=blue&style=flat" alt="Views" />
+</p>
+
+### 👨‍💻 Hi, I'm Rishu! 👋
 Solving problems and building logic, one commit at a time. Currently exploring the world of Linux with **Pop!_OS** 🐧.
 
 ---
 
 ## 🚀 My Coding Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/VBG5YEb6AX?theme=dark&font=Recursive)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rishu1790?theme=dark&font=Recursive)
 
 ## 🛠️ Tech Stack & Tools
-- **Language:** Java (OOPs, Collections, DSA) ☕
-- **Environment:** Windows / Pop!_OS 🐧
-- **Editor:** VS Code (Lightweight Setup) ⚡
-- **Version Control:** Git & GitHub Desktop
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📂 Featured Project
-- [LeetCode-Solutions](./LeetCode-Solutions) - Check out my 34+ solved problems!
+- **Focus:** Data Structures, Algorithms & OOPs ☕
+- **OS:** Windows / Pop!_OS (Customized for Efficiency) 🐧
+- **Automation:** LeetHub v2 for seamless GitHub sync ⚡
+
+## 🎯 Progress Tracking
+- [x] **Milestone 1:** 30+ Problems Solved 🎯
+- [ ] **Milestone 2:** 100+ Problems Solved 🚀
 
 ---
-*“Talk is cheap. Show me the code.” – Linus Torvalds*
 
 ## 📂 My Solutions Table
 
-
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
+
 # LeetCode Topics
 ## Array
-|  |
+| |
 | ------- |
 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -56,110 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
-|  |
+| |
 | ------- |
 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
-| [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0238-product-of-array-except-self](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
-| [0713-subarray-product-less-than-k](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
-| [0724-find-pivot-index](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
-## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0035-search-insert-position) |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0209-minimum-size-subarray-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
-| [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
-| [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
-| [0713-subarray-product-less-than-k](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
-| [0852-peak-index-in-a-mountain-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
-## Matrix
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
-| [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
-| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
-## Two Pointers
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
-| [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
-| [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0643-maximum-average-subarray-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
-| [0713-subarray-product-less-than-k](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
-| [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
-## Math
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0050-powx-n) |
-| [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
-| [0326-power-of-three](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0326-power-of-three) |
-| [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
-## Recursion
-|  |
-| ------- |
-| [0050-powx-n](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0050-powx-n) |
-| [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
-| [0326-power-of-three](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0326-power-of-three) |
-| [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
-## Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
-## Memoization
-|  |
-| ------- |
-| [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
-<!---LeetCode Topics End-->
+... (Baaki table waise hi rehne do)
