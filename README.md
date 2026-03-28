@@ -5,6 +5,7 @@ Welcome to my repository! Yahan main apni daily DSA practice aur problem-solving
 - **Language:** Java ☕
 - **OS:** Windows / Pop!_OS 🐧
 - **Current Progress:** 30+ Problems Solved 🎯
+- - **OS:** Exploring Development on **Pop!_OS** 🐧
 
 ---
 
