@@ -1,6 +1,6 @@
 # 🚀 My LeetCode DSA Journey (Java)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rishu1790?theme=dark&font=Recursive)
+![LeetCode Stats](https://leetcard.jacoblin.cool/VBG5YEb6AX?theme=dark&font=Recursive)
 
 Welcome to my repository! Yahan main apni daily DSA practice aur progress ko document karta hoon.
 
