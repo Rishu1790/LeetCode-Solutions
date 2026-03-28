@@ -1,3 +1,14 @@
+# 🚀 My LeetCode DSA Journey (Java)
+
+Welcome to my repository! Yahan main apni daily DSA practice aur problem-solving progress ko document karta hoon. 
+
+- **Language:** Java ☕
+- **OS:** Windows / Pop!_OS 🐧
+- **Current Progress:** 30+ Problems Solved 🎯
+
+---
+
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
