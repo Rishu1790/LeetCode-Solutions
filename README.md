@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
