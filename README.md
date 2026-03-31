@@ -93,3 +93,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 1 | [0050-powx-n](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0050-powx-n) |
 | 2 | [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | 3 | [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+<!---LeetCode Topics End-->
