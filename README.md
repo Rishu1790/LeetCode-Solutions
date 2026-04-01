@@ -79,13 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
 | 3 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 
-## Two Pointers
-| # | Question Link |
-|---|---|
-| 1 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
-| 2 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| 3 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
-| 4 | [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
+
 
 ## Recursion & Math
 | # | Question Link |
@@ -104,4 +98,46 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| 1 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
+| 2 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| 3 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| 4 | [0035-search-insert-position](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| 5 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| 6 | [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| 7 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| 8 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| 9 | [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| 10 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| 11 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| 12 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| 13 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| 14 | [0209-minimum-size-subarray-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| 15 | [0238-product-of-array-except-self](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| 16 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| 17 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| 18 | [0485-max-consecutive-ones](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| 19 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| 20 | [0643-maximum-average-subarray-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| 21 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
+| 22 | [0713-subarray-product-less-than-k](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| 23 | [0724-find-pivot-index](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| 24 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| 25 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| 26 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+## Two Pointers
+|  |
+| ------- |
+| 1 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| 2 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| 3 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| 4 | [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
