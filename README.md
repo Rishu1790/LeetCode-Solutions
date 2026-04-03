@@ -81,12 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 
 
-## Recursion & Math
-| # | Question Link |
-|---|---|
-| 1 | [0050-powx-n](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0050-powx-n) |
-| 2 | [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
-| 3 | [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -140,4 +135,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| 1 | [0050-powx-n](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0050-powx-n) |
+| 2 | [0231-power-of-two](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| 3 | [0509-fibonacci-number](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
