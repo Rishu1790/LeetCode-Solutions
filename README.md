@@ -44,12 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | 4 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 
-## Binary Search
-| # | Question Link |
-|---|---|
-| 1 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| 2 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
-| 3 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+
 
 
 
@@ -124,4 +119,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| 1 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| 3 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| 2 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
