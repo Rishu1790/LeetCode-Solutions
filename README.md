@@ -36,13 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 
 
-## Hash Table
-| # | Question Link |
-|---|---|
-| 1 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
-| 2 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| 3 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
-| 4 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+
 
 
 
@@ -55,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## String
 |  |
@@ -68,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | 3 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | 4 | [0035-search-insert-position](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | 5 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | 6 | [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | 7 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -135,10 +131,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| 1 | [0001-two-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0001-two-sum) |
+| 2 | [0003-longest-substring-without-repeating-characters](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| 3 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| 4 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
