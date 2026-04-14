@@ -1,4 +1,21 @@
 class Solution {
+     public static int maxElement(int weights[]){
+        int max = Integer.MIN_VALUE;
+        
+        for(int i=0;i<weights.length ;i++){
+             max = Math.max(max,weights[i]);
+        }
+        return max;
+    }
+
+    public static int sum(int weights[]){
+        int sum =0;
+
+        for (int i = 0; i < weights.length; i++) {
+            sum=sum+weights[i]; 
+        }
+        return sum;
+    }
      public static int days(int cap,int weights[]) {
         int days =1;
         int load =0;
@@ -13,9 +30,10 @@ class Solution {
         }
         return days;
     }
+    
     public int shipWithinDays(int[] weights, int days) {
-         int low = Arrays.stream(weights).max().getAsInt();
-        int high = Arrays.stream(weights).sum();
+       int low = maxElement(weights);
+        int high = sum(weights);
 
         while(low<=high){
             int mid = (low+high)/2;
