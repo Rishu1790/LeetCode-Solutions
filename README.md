@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0052-n-queens-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | 4 | [0035-search-insert-position](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | 5 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | 6 | [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | 7 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
