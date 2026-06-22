@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,9 +183,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
