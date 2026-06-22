@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 16 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | 17 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | 18 | [0485-max-consecutive-ones](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | 19 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | 20 | [0643-maximum-average-subarray-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | 21 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | 3 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | 4 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,8 +181,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
