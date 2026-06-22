@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | 2 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | 3 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | 4 | [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | 3 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | 4 | [0242-valid-anagram](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0707-design-linked-list) |
