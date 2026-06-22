@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 3 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | 4 | [0344-reverse-string](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Design
 |  |
 | ------- |
