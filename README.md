@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 6 | [0053-maximum-subarray](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | 7 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | 8 | [0073-set-matrix-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | 9 | [0075-sort-colors](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | 1 | [0033-search-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | 3 | [0540-single-element-in-a-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | 2 | [0704-binary-search](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
