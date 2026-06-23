@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 24 | [0852-peak-index-in-a-mountain-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1572-matrix-diagonal-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | 25 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | 26 | [2798-number-of-employees-who-met-the-target](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1572-matrix-diagonal-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
