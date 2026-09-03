@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 ## String
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 12 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | 13 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | 14 | [0209-minimum-size-subarray-sum](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | 15 | [0238-product-of-array-except-self](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | 16 | [0240-search-a-2d-matrix-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | 17 | [0283-move-zeroes](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0283-move-zeroes) |
