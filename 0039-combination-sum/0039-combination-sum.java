@@ -1,39 +1,44 @@
 class Solution {
 
-    public void solve(int[] candidates,int target,int i,List<List<Integer>> result,List<Integer> ds){
+static void solve( int[] candidates , int target ,List<List<Integer>> ans,List<Integer> ds,int i){
+    if(target==0){
+     ans.add(new ArrayList<>(ds) );
+     return;
+    
+    }
+    if(i>=candidates.length){
 
+      return;
+    }
+    if(target<0){
+        return;
+    }
+    ds.add(candidates[i]);
+    solve(candidates,target-candidates[i],ans,ds,i);
+    ds.remove(ds.size()-1);
 
-if(target==0){
-            result.add(new ArrayList<>(ds));  
-            return;   
-        }
+    solve(candidates,target,ans,ds,i+1);
 
- if(i == candidates.length || target<0){
     return;
- }              
-
-
-ds.add(candidates[i]);
-solve(candidates,target-candidates[i],i,result,ds);
-ds.remove(ds.size()-1);
-
-
-
-solve(candidates,target,i+1,result,ds);
 
 
 
 
+}
 
-    } 
+
+
+
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
         List<Integer> ds = new ArrayList<>();
-        solve(candidates,target,0,result,ds);
 
-        return result ;
+        int i =0;
+        solve(candidates,target,ans,ds,i);
+        return ans;
 
         
     }
+
 }
