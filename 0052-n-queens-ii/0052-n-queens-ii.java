@@ -1,43 +1,37 @@
 class Solution {
-    // Keep your variable, but we MUST reset it
-    public int count = 0; 
+    private int count = 0;
 
     public int totalNQueens(int n) {
-        count = 0; // CRITICAL: Reset for every new test case
-        char board[][] = new char[n][n];
-        for(int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                board[i][j] = '.';
-            }
-        }
-        nQueens(board, 0);
-        return count; // Return instead of System.out.println
+        count = 0;
+        boolean[] cols = new boolean[n];
+        boolean[] leftDiagonals = new boolean[2 * n];
+        boolean[] rightDiagonals = new boolean[2 * n];
+        solve(0, n, cols, leftDiagonals, rightDiagonals);
+        return count;
     }
 
-    public void nQueens(char board[][], int row) {
-        if(row == board.length) {
+    private void solve(int row, int n, boolean[] cols, boolean[] leftDiagonals, boolean[] rightDiagonals) {
+        if (row == n) {
             count++;
             return;
         }
-        for (int j = 0; j < board.length; j++) {
-            if(isSafe(board, row, j)) {
-                board[row][j] = 'Q';
-                nQueens(board, row + 1);
-                board[row][j] = '.';
+        for (int col = 0; col < n; col++) {
+            int leftDiagIndex = row - col + n;
+            int rightDiagIndex = row + col;
+            
+            if (cols[col] || leftDiagonals[leftDiagIndex] || rightDiagonals[rightDiagIndex]) {
+                continue;
             }
+            
+            cols[col] = true;
+            leftDiagonals[leftDiagIndex] = true;
+            rightDiagonals[rightDiagIndex] = true;
+            
+            solve(row + 1, n, cols, leftDiagonals, rightDiagonals);
+            
+            cols[col] = false;
+            leftDiagonals[leftDiagIndex] = false;
+            rightDiagonals[rightDiagIndex] = false;
         }
-    }
-
-    public boolean isSafe(char board[][], int row, int col) {
-        for (int i = row - 1; i >= 0; i--) {
-            if(board[i][col] == 'Q') return false;
-        }
-        for(int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if(board[i][j] == 'Q') return false;
-        }
-        for(int i = row - 1, j = col + 1; i >= 0 && j < board.length; i--, j++) {
-            if(board[i][j] == 'Q') return false;
-        }
-        return true;
     }
 }
