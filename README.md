@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0965-univalued-binary-tree](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0965-univalued-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rishu1790/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
