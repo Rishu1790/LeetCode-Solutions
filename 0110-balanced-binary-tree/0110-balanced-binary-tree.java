@@ -1,6 +1,7 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
         return checkHeight(root) != -1;
+        // agar --1 return aaya checkHeight se to mtlb tree balanced nhi h 
     }
 
     private int checkHeight(TreeNode root) {
